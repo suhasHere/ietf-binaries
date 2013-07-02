@@ -1,0 +1,2 @@
+List of all the binaries needed to setup IETF Document generation from command line
+Also includes a sample Makefile for build txt, html and pdf versions of the XML document
